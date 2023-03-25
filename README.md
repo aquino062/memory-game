@@ -1,2 +1,3 @@
 # memory-game
- Jogo da memória com tema do Rick and Morty feito com HTML, CSS e JavaScript
+ Jogo da memória  criado com HTML, CSS e JavaScript do canal Manual do Dev
+
